@@ -1,0 +1,29 @@
+﻿{
+  "StoreName": "SYANL STORE",
+  "token": "MTE5NjE4MDAzNDEyNjM2MDY5Nw.GBiF6C.LbXkPW9QTZSt9Rvt0Bwp131s_Y50IAqRNMqCho",
+  "mongoURI": "mongodb+srv://ozgurbanned11:<KqRFDNi8zIcyIfUk>@test.fgmsidp.mongodb.net/",
+  "prefix": ".",
+  "adminIds": [
+    "812301324879527947",
+    "AdminID1"
+  ],
+  "buylogChannelId": "1196854748918321192",
+  "stockChannelId": "1196702393249828945",
+  "yourBotId": "1196180034126360697",
+  "desiredChannelId": "1196703096919822456",
+  "specificUserId": "https://discord.com/api/webhooks/1196858833084088450/vZBCfJ4EOvZJFJsZBmI8pWD0gfhAcKr7dPG9jYlku1cH2uOe7Sjaa1TneYxty0bE3cAk",
+  "wl": "🔒",
+  "no": "🚫",
+  "verif": "✅",
+  "warning": "⚠️",
+  "megaphone": "📢",
+  "thankyou": "👋🏼",
+  "dl": "🔒",
+  "arrow1": "➡️",
+  "arrow2": "➡️",
+  "arrow3": "➡️",
+  "world": "🌎",
+  "owner": "🤵🏼‍♂️",
+  "bot": "🤖",
+  "bgl": "🔒"
+}
